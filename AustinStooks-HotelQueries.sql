@@ -179,7 +179,7 @@ order by
 	
 
 /*
-its wrong
+
 
 Mack	Simmer	4
 Bettyann	Seery	3
